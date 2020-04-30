@@ -1,0 +1,27 @@
+PODS:
+  - CryptoSwift (1.3.0)
+  - KeychainAccess (4.2.0)
+  - Keys (1.0.1)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - KeychainAccess
+  - Keys (from `Pods/CocoaPodsKeys`)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - KeychainAccess
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  CryptoSwift: 1283821600233bdbeb96d7b389c3288c3bf77211
+  KeychainAccess: 3f760109aa99b05d0f231e28b22642da7153e38a
+  Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
+
+PODFILE CHECKSUM: 7a0e810e2725edb076e65f4f8f7caaf69d0ad771
+
+COCOAPODS: 1.9.1
